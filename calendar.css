@@ -1,0 +1,48 @@
+/* CALENDAR */
+table.wide {
+width: 100%;	
+}
+table.calendar {
+border-collapse: collapse;
+font-size: 0.9em;
+}
+table.calendar td, table.calendar th {
+padding: 5px;
+border: 1px solid #666;
+text-align:center;
+}
+table.calendar th {
+background: #666;
+color: #fff;
+width: 14%;
+}
+table.calendar td:hover {
+font-weight: bold;
+}
+
+tr.month_label {
+text-align: center;
+}
+tr.month_label th {
+background: #000;
+}
+
+table.calendar td.today {
+background: #ffffaa;
+}
+table.calendar td.inside_period {
+background: #eee;
+}
+
+table.calendar td.lessons {
+background: #ddd !important;
+}
+
+.calendar ul {
+padding-left: 0px;
+list-style-position: inside;
+text-align: left;
+}
+.calendar li {
+margin-bottom: 10px;
+}
