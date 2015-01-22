@@ -2,6 +2,7 @@ pluginGino-calendar
 ================
 
 Plugin per [gino CMS](https://github.com/otto-torino/gino) per la gestione di calendari.   
+**Il plugin non è più in fase di sviluppo**
 
 Licenza
 -------
